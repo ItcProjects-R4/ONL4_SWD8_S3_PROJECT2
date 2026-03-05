@@ -9,7 +9,7 @@ class Passwordfield extends StatefulWidget {
 
 class _PasswordfieldState extends State<Passwordfield> {
   final passwordController = TextEditingController();
-  bool isObsecured = false, isVisible = true;
+  bool isObsecured = true, isVisible = true;
 
 
   @override
