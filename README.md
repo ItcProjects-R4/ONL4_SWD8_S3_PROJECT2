@@ -9,7 +9,7 @@ what you filled.
 
 ## A good app should have a clean architecture to see the details 😊
 
-#Here are the pictures of the project 👇
+# Here are the pictures of the project 👇
 ![Splash](https://github.com/user-attachments/assets/d27be56e-fe89-46ee-81f6-0cde749a2c1c)
 
 ![Registration form](https://github.com/user-attachments/assets/73db8091-a4f3-4da4-98e2-2f1857f28ec5)
